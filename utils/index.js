@@ -1,0 +1,6 @@
+export { default as categories } from './categories'
+export { default as courseDetail } from './courseDtetail'
+export { default as coursesListOne } from './coursesListOne'
+export { default as coursesListTwo } from './coursesListTwo'
+export { default as notificationByDays } from './notoficationByDays'
+export { default as topSearches } from './topSearches'
